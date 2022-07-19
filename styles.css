@@ -1,0 +1,26 @@
+body {
+  background-color: #312F2D;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: orange;
+  border-width: 5px;
+  width:5%
+
+}
+ul{
+  color: #E0E7E5
+}
+tr{
+  color: #E0E7E5
+}
+h2{
+  border-style:none;
+  border-left-style:solid;
+  border-color:orange;
+  padding: 5px;
+  color: #E0E7E5;
+
+}
